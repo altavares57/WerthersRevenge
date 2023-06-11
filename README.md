@@ -131,4 +131,4 @@ Asset Name: Heart Pixel Art
 Creator: Flixberry Entertainment
 License: (https://opengameart.org/content/heart-pixel-art)
 
-Description: Werthers' Health Guage!
+Description: Werthers' Health Gauge!
