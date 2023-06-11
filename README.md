@@ -10,7 +10,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Asset Acknowledgements](#Asset Acknowledgements)
+- [Asset Acknowledgements](#asset-acknowledgements)
 
 ## Overview
 
