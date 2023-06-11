@@ -101,8 +101,6 @@ Email: altavares57@gmail.com
 
 ## Asset Acknowledgements
 
-## Asset Acknowledgements
-
 Asset Name: Music<br>
 Creator: Lavisintheair<br>
 Album Link: [https://lavisintheair.bandcamp.com/album/bits-and-stories-vol-1](https://lavisintheair.bandcamp.com/album/bits-and-stories-vol-1)<br>
