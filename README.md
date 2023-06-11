@@ -1,5 +1,3 @@
-##Wethers' Revenge
-
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
@@ -103,32 +101,30 @@ Email: altavares57@gmail.com
 
 ## Asset Acknowledgements
 
-Asset Name: Music
-Creator: Lavisintheair
-Album Link: (https://lavisintheair.bandcamp.com/album/bits-and-stories-vol-1)
+## Asset Acknowledgements
 
-Description: At the time of writing, all the music in this game will be derived from this album. Thanks, Lav! Wonderful work here. 
+Asset Name: Music<br>
+Creator: Lavisintheair<br>
+Album Link: [https://lavisintheair.bandcamp.com/album/bits-and-stories-vol-1](https://lavisintheair.bandcamp.com/album/bits-and-stories-vol-1)<br>
+Description: At the time of writing, all the music in this game will be derived from this album. Thanks, Lav! Wonderful work here.
 
-Asset Name: Character - Spritesheet Duck
-Creator: Ulti
-License: FINISAUTEMPOTENTIAE © (https://opengameart.org/content/character-spritesheet-duck)
-
+Asset Name: Character - Spritesheet Duck<br>
+Creator: Ulti<br>
+License: FINISAUTEMPOTENTIAE © [https://opengameart.org/content/character-spritesheet-duck](https://opengameart.org/content/character-spritesheet-duck)<br>
 Description: This sprite is the main character of the game, Werthers the Duck!
 
-Asset Name: Pixel Orbs
-Creator: Flowly
-License: (https://opengameart.org/content/pixel-orbs)
-
+Asset Name: Pixel Orbs<br>
+Creator: Flowly<br>
+License: [https://opengameart.org/content/pixel-orbs](https://opengameart.org/content/pixel-orbs)<br>
 Description: The various orbs Werthers will be using to blast his foes to oblivion!
 
-Asset Name: Adorable Animated Platformer Enemies
-Creator: CosmicCrystal
-License: Cosmic Crystal Games (https://opengameart.org/content/adorable-animated-platformer-enemies)
-
+Asset Name: Adorable Animated Platformer Enemies<br>
+Creator: CosmicCrystal<br>
+License: Cosmic Crystal Games [https://opengameart.org/content/adorable-animated-platformer-enemies](https://opengameart.org/content/adorable-animated-platformer-enemies)<br>
 Description: The baddies in "Werthers' Revenge" entirely consist of these assets. Thank you, Cosmic Crystal Games!
 
-Asset Name: Heart Pixel Art
-Creator: Flixberry Entertainment
-License: (https://opengameart.org/content/heart-pixel-art)
-
+Asset Name: Heart Pixel Art<br>
+Creator: Flixberry Entertainment<br>
+License: [https://opengameart.org/content/heart-pixel-art](https://opengameart.org/content/heart-pixel-art)<br>
 Description: Werthers' Health Gauge!
+
