@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -47,7 +49,8 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-//Need to refine player movement without havind the Rigidbody2D interfere with the player's orbs. 
+
+//Need to refine player movement without having the Rigidbody2D interfere with the player's orbs. 
 //Implementation of the follow camera is next.
 //Attempting a walking animation and with a smooth transition before and after the idle animation is after that.
 //Lastly, note that the orb remains in the position that it was initially isntantiated and does not travel with the player. 

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerCombat : MonoBehaviour
 {
+    public int damageAmount = 1; // Assign a default damage amount
     public GameObject orbPrefab; // Prefab for the orb GameObject
     public float maxChargeLevel = 3f; // Maximum charge level for the orb
     public float chargeSpeed = 1f; // Speed at which the orb charges
@@ -9,6 +10,7 @@ public class PlayerCombat : MonoBehaviour
 
     private GameObject currentOrb; // Reference to the currently charged orb
     private float chargeLevel; // Current charge level of the orb
+
 
     private void Update()
     {
@@ -50,6 +52,18 @@ public class PlayerCombat : MonoBehaviour
         // Clean up variables
         currentOrb = null;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Check if the collided object is an enemy
+        Enemy enemy = collision.gameObject.GetComponent<Enemy>();
+        if (enemy != null)
+        {
+            // Call the TakeDamage method of the enemy, passing the damageAmount value
+            enemy.TakeDamage(damageAmount);
+        }
+    }
+
 
     private void FixedUpdate()
     {
